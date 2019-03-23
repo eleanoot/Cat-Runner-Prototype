@@ -1,0 +1,12 @@
+{
+"companyName": "CSC3224",
+"productName": "CatRunnerPrototype",
+"dataUrl": "CatRunnerPrototype.data.unityweb",
+"wasmCodeUrl": "CatRunnerPrototype.wasm.code.unityweb",
+"wasmFrameworkUrl": "CatRunnerPrototype.wasm.framework.unityweb",
+"TOTAL_MEMORY": 536870912,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
